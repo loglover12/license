@@ -1,9 +1,9 @@
 {
   "authyV": {
     "ip_address": "178.1.149.168",
-    "blacklisted": true,
+    "blacklisted": false,
     "reason": "Try to leak the Anticheat",
-    "lifetime": true,
-    "expiration_date": 0
+    "lifetime": false,
+    "expiration_date": 1744902720
   }
 }
