@@ -1,9 +1,9 @@
 {
-    "authyV": {
-      "ip_address": "178.1.149.168",
-      "blacklisted": false,
-      "lifetime": false,
-      "expiration_date": 1744842060
-    }
+  "authyV": {
+    "ip_address": "178.1.149.168",
+    "blacklisted": false,
+    "reason": "",
+    "lifetime": true,
+    "expiration_date": 0
   }
-  
+}
