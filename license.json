@@ -4,6 +4,6 @@
     "blacklisted": false,
     "reason": "Try to leak the Anticheat",
     "lifetime": false,
-    "expiration_date": 1745569440
+    "expiration_date": 1745565600
   }
 }
